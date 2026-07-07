@@ -1,0 +1,15 @@
+SK John Nagur Meera Valli
+Software Engineer | AI/ML Enthusiast
+Email: shaikjohn456@gmail.com
+GitHub: https://github.com/John9899CSE
+LinkedIn: https://www.linkedin.com/in/sk-john-80552640b/
+
+Summary
+Aspiring Software Engineer with expertise in Java, Python, Data Structures and Algorithms, and Full-Stack Development. Passionate about building scalable applications, writing clean code, and solving engineering problems.
+
+Skills
+Java, Python, C++, JavaScript, HTML5, CSS3, React.js, Spring Boot, Node.js, REST APIs, MySQL, MongoDB, AWS, Docker, Linux, Git, GitHub.
+
+Projects
+- Error Nest: Designed and developed an enterprise-grade error tracking system.
+- MNB Heaven: Built a responsive coffee ordering website using HTML, CSS, and JavaScript.
