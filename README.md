@@ -13,8 +13,7 @@ This portfolio showcases:
 
 ## Portfolio Link
 
-- Live portfolio / repository: https://john9899cse.github.io/MY_PORTFOLIO/
-
+- Live portfolio / repository: (https://johnforgex.github.io/MY_PORTFOLIO/)
 ## Files
 
 - `index.html` — main portfolio page
